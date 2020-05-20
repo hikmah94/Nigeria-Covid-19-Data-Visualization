@@ -1,0 +1,38 @@
+State,Confirmedcases,Discharged,Recordeddeath,Activecases
+Abia,2,0,0,2
+Adamawa,4,0,0,4
+Akwa Ibom,16,10,2,4
+Anambra,1,0,0,1
+Bauchi,53,6,0,47
+Bayelsa,5,0,0,5
+Benue,1,0,0,1
+Borno,75,0,11,64
+Cross River,,,,
+Delta,17,4,2,11
+Ebonyi,5,0,0,5
+Edo,52,10,3,39
+Ekiti,11,2,1,8
+Enugu,8,2,0,6
+Gombe,96,0,0,96
+Imo,2,0,0,2
+Jigawa,7,0,1,6
+Kaduna,66,6,1,59
+Kano,313,7,6,300
+Katsina,38,6,6,26
+Kebbi,12,0,0,12
+Kogi,,,,
+Kwara,16,2,0,14
+Lagos,1068,247,30,791
+Nassarawa,9,0,0,1
+Niger,3,0,0,3
+Ogun,56,9,2,45
+Ondo,13,3,0,10
+Osun,36,22,3,11
+Oyo,33,9,2,22
+Plateau,3,0,0,3
+Rivers,14,2,2,10
+Taraba,8,0,0,8
+Sokoto,54,1,8,45
+Yobe,13,0,1,12
+Zamfara,12,0,1,11
+Federal Capital Territory,266,36,3,227
